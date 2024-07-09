@@ -7,7 +7,7 @@
   const routes = [
     MenuPage, RewardPage, GiftPage
   ]
-  let activeRoute = 2;
+  let activeRoute = 1;
 
   function selectRoute(route) {
     activeRoute = route
